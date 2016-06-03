@@ -1,0 +1,8 @@
+C:\Div\Origin\53-Winform-Linq\WinForm-Linq\WindowsFormsLINQQuery\bin\Release\WindowsFormsLINQQuery.exe.config
+C:\Div\Origin\53-Winform-Linq\WinForm-Linq\WindowsFormsLINQQuery\bin\Release\WindowsFormsLINQQuery.exe
+C:\Div\Origin\53-Winform-Linq\WinForm-Linq\WindowsFormsLINQQuery\bin\Release\WindowsFormsLINQQuery.pdb
+C:\Div\Origin\53-Winform-Linq\WinForm-Linq\WindowsFormsLINQQuery\obj\Release\WindowsFormsLINQQuery.frmLINQQuery.resources
+C:\Div\Origin\53-Winform-Linq\WinForm-Linq\WindowsFormsLINQQuery\obj\Release\WindowsFormsLINQQuery.Properties.Resources.resources
+C:\Div\Origin\53-Winform-Linq\WinForm-Linq\WindowsFormsLINQQuery\obj\Release\WindowsFormsLINQQuery.csproj.GenerateResource.Cache
+C:\Div\Origin\53-Winform-Linq\WinForm-Linq\WindowsFormsLINQQuery\obj\Release\WindowsFormsLINQQuery.exe
+C:\Div\Origin\53-Winform-Linq\WinForm-Linq\WindowsFormsLINQQuery\obj\Release\WindowsFormsLINQQuery.pdb
